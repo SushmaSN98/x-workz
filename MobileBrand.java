@@ -1,0 +1,3 @@
+public enum MobileBrand{
+SAMSUNG,REDMI,LAVA,LENOVO,NOKIA,ASUS,OPPO
+}
